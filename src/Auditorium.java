@@ -32,6 +32,7 @@ public class Auditorium {
             }
             count++;
             in = B.nextLine();
+            //this isnt working
             if (!(in.isEmpty())) {
                 for(int j = 0; j < col; j++) {
                     Node A = new Node((char) (65 + j), in.charAt(j), count);
