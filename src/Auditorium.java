@@ -25,6 +25,7 @@ public class Auditorium {
 //                    Tail = First;
 //                }
                 Tail = A;
+                Tail.setNext(null);
                 if (!(i + 1 < col)) { // this condition works
                     A.setNext(null);
                 }
