@@ -20,10 +20,6 @@ public class Auditorium {
                     continue;
                 }
                 Node A = new Node((char) (65 + i), in.charAt(i), count);
-//                if(First == null){
-//                    First = A;
-//                    Tail = First;
-//                }
                 Tail = A;
                 if (!(i + 1 < col)) { // this condition works
                     A.setNext(null);
