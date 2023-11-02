@@ -1,4 +1,3 @@
-//NET ID: AXE210038 Name: Ahmed Elghazi
 public class Node {
     private Seat Payload;
     private Node Next;
