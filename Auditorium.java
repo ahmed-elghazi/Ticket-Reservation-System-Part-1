@@ -1,4 +1,3 @@
-//NET ID: AXE210038 Name: Ahmed Elghazi
 import java.util.Scanner;
 public class Auditorium {
     private Node First;
