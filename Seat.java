@@ -1,4 +1,3 @@
-//NET ID: AXE210038 Name: Ahmed Elghazi
 public class Seat {
     private char colChar;
     private char ticketType;
