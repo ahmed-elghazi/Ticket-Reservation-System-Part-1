@@ -1,4 +1,3 @@
-//NET ID: AXE210038 Name: Ahmed Elghazi
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 import java.io.File;
